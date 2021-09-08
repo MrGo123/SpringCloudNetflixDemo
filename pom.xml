@@ -17,6 +17,7 @@
         <module>springcloud-eureka-dept-7003</module>
         <module>springcloud-provider-dept-8082</module>
         <module>springcloud-provider-dept-8083</module>
+        <module>springcloud-consumer-dept-feign</module>
     </modules>
 
     <properties>
