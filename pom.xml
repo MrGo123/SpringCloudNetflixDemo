@@ -18,6 +18,9 @@
         <module>springcloud-provider-dept-8082</module>
         <module>springcloud-provider-dept-8083</module>
         <module>springcloud-consumer-dept-feign</module>
+        <module>springcloud-provider-dept-hystrix-8081</module>
+        <module>springcloud-zuul-9003</module>
+        <module>springcloud-config-server-3344</module>
     </modules>
 
     <properties>

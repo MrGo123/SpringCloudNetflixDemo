@@ -1,0 +1,16 @@
+# 传到github上的配置文件，用于测试Spring Cloud Config
+Spring:
+  profiles:
+    active: dev
+
+---
+spring:
+  profiles: dev
+  application:
+    name: springcloud-config-dev
+
+---
+spring:
+  profiles: test
+  application:
+    name: springcloud-config-test
